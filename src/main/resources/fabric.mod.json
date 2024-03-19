@@ -3,10 +3,11 @@
 	"id": "shieldfixes",
 	"version": "${version}",
 
-	"name": "Walksy's Shield Fixes",
-	"description": "Fixes shield sounds",
+	"name": "Walksy's Purified Shield Fixes",
+	"description": "Fixes shield sounds, as well as the mod's original icon.",
 	"authors": [
-		"Walksy"
+		"Walksy",
+		"KayoticCarnige"
 	],
 	"contact": {
 		"homepage": ""
