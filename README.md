@@ -1,4 +1,4 @@
-# [BRO COOKED (new version, this doesn't need to exist anymore)](https://modrinth.com/mod/complete-shield-fixes)
+# [BRO COOKED (new version)](https://modrinth.com/mod/complete-shield-fixes)
 
 ## Shield Fixes (PURIFIED)
 
